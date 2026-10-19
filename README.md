@@ -1,12 +1,16 @@
-# 25-26-PL-G03
+# Compilador Fortran 77 para EWVM
 
-## Grupo 03
+Projeto académico da unidade curricular de **Processamento de Linguagens**
+(Universidade do Minho, 2025/2026), desenvolvido pelo Grupo 03.
+
+## Equipa
 
 - Aluno1: Carlos Miguel Lopes Silva
 - Aluno2: Francisco Luís Veloso Soares
 - Aluno3: Nuno Francisco Rocha Soares
 
-Compilador de um *subset* de Fortran 77 para a EWVM, desenvolvido em Python com PLY.
+Compilador de um *subset* de Fortran 77 para a EWVM, desenvolvido em Python
+com PLY.
 
 ## Como compilar e testar na VM (passo a passo)
 
